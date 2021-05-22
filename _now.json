@@ -1,9 +1,6 @@
 {
     "version": 2,
     "name": "disqusjs-proxy",
-    #"alias": [
-    #    "disqusjs.hoshino.us"
-    #],
     "routes": [
         {
             "src": "/(.*)",
