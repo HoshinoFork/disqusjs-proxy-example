@@ -9,10 +9,10 @@
             "src": "/(.*)",
             "headers": {
                 "cache-control": "public, max-age=2400",
-                "access-control-allow-credentials: true",
-                "access-control-allow-origin: catmeow.me",
-                "access-control-allow-origin: www.catmeow.me",
-                "access-control-allow-origin: hoshinoneko.github.io"
+                "access-control-allow-credentials": " true",
+                "access-control-allow-origin": "catmeow.me",
+                "access-control-allow-origin": "www.catmeow.me",
+                "access-control-allow-origin": "hoshinoneko.github.io"
             },
             "dest": "https://disqus.com/api/$1"
         }
